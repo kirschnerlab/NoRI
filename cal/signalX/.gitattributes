@@ -1,0 +1,12 @@
+sample_water_channel_waterHP.tif filter=lfs diff=lfs merge=lfs -text
+sample_water_channel_proteinUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_water_channel_lipidUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_DOPC35backup_channel_lipidUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_DOPC35backup_channel_proteinUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_DOPC35backup_channel_waterHP.tif filter=lfs diff=lfs merge=lfs -text
+sample_BSA30new_channel_waterHP.tif filter=lfs diff=lfs merge=lfs -text
+sample_BSA30new_channel_proteinUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_BSA30new_channel_lipidUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_dmethanol_channel_lipidUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_dmethanol_channel_proteinUP.tif filter=lfs diff=lfs merge=lfs -text
+sample_dmethanol_channel_waterHP.tif filter=lfs diff=lfs merge=lfs -text
